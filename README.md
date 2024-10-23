@@ -1,3 +1,2 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
-I like playing basketball and video games
+https://docs.google.com/document/d/19qdndUw9j3Q1W5fMXKJp_3EB2jyg8Y5-PljXbpmxlP4/edit?usp=sharing
